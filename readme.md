@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img/LOGOSPNG/logo.png" alt="Nexlify" width="220"/>
+  <img src="img/LOGOSPNG/logo.png" alt="Nexlify" width="220"/>
 </div>
 
 # Como se Tornar um BOM Físico Teórico
